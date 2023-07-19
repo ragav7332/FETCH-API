@@ -1,0 +1,17 @@
+.card
+{
+    margin-bottom: 15px;
+    padding: 10px;
+    height: 475px;
+    background-color: gainsboro;
+}
+.card-footer 
+{
+    background: transparent;
+    border-top: 0px;
+}
+body
+{
+    background-color:snow;
+    font-family:monospace;
+}
